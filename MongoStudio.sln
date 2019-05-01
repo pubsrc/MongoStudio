@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoStudio", "MongoStudio\MongoStudio.csproj", "{52B5C52B-8E0A-4864-9BE1-961DB19FDF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.MongoStudio", "Core.MongoStudio\Core.MongoStudio.csproj", "{F91AF77C-4E83-4516-9967-03BACDF8464D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedListViews", "ExtendedListViews\ExtendedListViews.csproj", "{36202DE0-590A-43D4-A99D-55412CAD71C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B5C52B-8E0A-4864-9BE1-961DB19FDF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B5C52B-8E0A-4864-9BE1-961DB19FDF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B5C52B-8E0A-4864-9BE1-961DB19FDF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B5C52B-8E0A-4864-9BE1-961DB19FDF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91AF77C-4E83-4516-9967-03BACDF8464D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91AF77C-4E83-4516-9967-03BACDF8464D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91AF77C-4E83-4516-9967-03BACDF8464D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91AF77C-4E83-4516-9967-03BACDF8464D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36202DE0-590A-43D4-A99D-55412CAD71C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36202DE0-590A-43D4-A99D-55412CAD71C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36202DE0-590A-43D4-A99D-55412CAD71C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36202DE0-590A-43D4-A99D-55412CAD71C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://syedbilal228.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Core.MongoStudio\\Core.MongoStudio.csproj
+		SccProjectName1 = Core.MongoStudio
+		SccLocalPath1 = Core.MongoStudio
+		SccProjectUniqueName2 = ExtendedListViews\\ExtendedListViews.csproj
+		SccProjectName2 = ExtendedListViews
+		SccLocalPath2 = ExtendedListViews
+		SccProjectUniqueName3 = MongoStudio\\MongoStudio.csproj
+		SccProjectName3 = MongoStudio
+		SccLocalPath3 = MongoStudio
+	EndGlobalSection
+EndGlobal
